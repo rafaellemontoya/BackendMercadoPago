@@ -1,0 +1,4 @@
+[10-Sep-2020 00:56:42 America/Boise] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home1/themytco/public_html/estoyenlinea/bazar/vendor/mercadopago/dx-php/tests/resources/PreferenceTest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home1/themytco/public_html/estoyenlinea/bazar/vendor/mercadopago/dx-php/tests/resources/PreferenceTest.php on line 7
